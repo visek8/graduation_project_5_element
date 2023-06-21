@@ -1,0 +1,1 @@
+{"name": "test_action", "status": "passed", "attachments": [{"name": "screenshot", "source": "78468979-8d9d-48ca-9e35-0f0aba7efc2d-attachment.png", "type": "image/png"}], "start": 1687311823608, "stop": 1687311829331, "uuid": "4d03b46e-39c4-47ce-bacf-887a0e411926", "testCaseId": "686d9fcdb2314ec40dc0d7b091d015b9", "fullName": "tests.test_element_page#test_action"}
